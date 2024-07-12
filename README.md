@@ -6,15 +6,15 @@
 
 ## 组织简介  :stuck_out_tongue_closed_eyes:
 
-我们在GitHub和其他平台上分享我们的项目和学习经验，希望通过这些平台与更多的开发者交流和学习。同时，我们也在不断地扩展我们的知识面，涉及Java、Python、Web开发等多个领域。
+我们在GitHub和其他平台上分享我们的项目和学习经验，希望通过这些平台与更多的开发者交流和学习。同时，我们也在不断地扩展我们的知识面，涉及Java、Python、Web开发、神经网络等多个领域。
 
 ## 组织成员的爱好  :cold_sweat:
 
 - 编程：喜欢用Java、Python和其他编程语言开发各种有趣的项目。
-- 游戏：喜欢玩Minecraft和其他策略类游戏。
+- 游戏：喜欢玩Minecraft、明日方舟和其他策略类游戏。
 - 学习：喜欢阅读技术书籍和文章，不断提升自己的技术水平。
 - 分享：喜欢在各种平台上分享我们的项目和经验。我们的一些成员还喜欢踢足球，是阿森纳和山东泰山队的球迷。
-- Europa Universalis IV, Arsenal, 山东泰山, Minecraft
+- Europa Universalis IV, Arsenal, 山东泰山, Minecraft, Arknights
 
 ## 技能 && 活跃度  :sweat_smile:
 
@@ -34,3 +34,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Duke-s-Mansion-of-Qi}/count.svg)
 
 ![](https://imgbed.mengnankk.asia/202407091738653.jpg)
+
+![](https://raw.githubusercontent.com/Margit-Arachne/Blog-pic/main/img/202407121100265.jpg)
